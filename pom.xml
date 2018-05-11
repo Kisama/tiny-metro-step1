@@ -14,7 +14,8 @@
 	</properties>
 	<modules>
 		<module>metro-share</module>
-	</modules>
+        <module>metro-domain</module>
+    </modules>
 
 	<build>
 		<plugins>
